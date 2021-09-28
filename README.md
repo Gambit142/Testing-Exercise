@@ -1,59 +1,28 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Testing Exercise
 
-> One paragraph statement about the project.
+> This project is an exercise where we learn to test functions and classes to be sure that they are running the way they should be.
 
-![screenshot](./app_screenshot.png)
+> We used `Jest.js` to complete this exercise.
 
-Additional description about the project and its features.
+> We did `Unit Testing` for each of our functions and adopted the _Test Driven Development_ Methodology
 
 ## Built With
 
 - Major languages
-- Frameworks
+  - Javascript 
+
 - Technologies used
-
-## Live Demo
-
-[Live Demo Link](https://livedemo.com)
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
+  - Jest 
 
 ## Authors
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@Gambit142](https://github.com/Gambit142)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- LinkedIn: [Francis Ugorji](www.linkedin.com/in/francis-ugorji-a567b7168)
 
 ## 🤝 Contributing
 
@@ -67,9 +36,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Microverse for the well curated materials used to teach us the  **`Unit Tests in JavaScript`**
 
 ## 📝 License
 
